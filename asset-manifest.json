@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/architect/static/js/main.eb0fa868.chunk.js",
+    "main.js.map": "/architect/static/js/main.eb0fa868.chunk.js.map",
+    "runtime-main.js": "/architect/static/js/runtime-main.12864000.js",
+    "runtime-main.js.map": "/architect/static/js/runtime-main.12864000.js.map",
+    "static/js/2.d272184c.chunk.js": "/architect/static/js/2.d272184c.chunk.js",
+    "static/js/2.d272184c.chunk.js.map": "/architect/static/js/2.d272184c.chunk.js.map",
+    "static/js/3.8967f141.chunk.js": "/architect/static/js/3.8967f141.chunk.js",
+    "static/js/3.8967f141.chunk.js.map": "/architect/static/js/3.8967f141.chunk.js.map",
+    "index.html": "/architect/index.html",
+    "static/js/2.d272184c.chunk.js.LICENSE.txt": "/architect/static/js/2.d272184c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12864000.js",
+    "static/js/2.d272184c.chunk.js",
+    "static/js/main.eb0fa868.chunk.js"
+  ]
+}
